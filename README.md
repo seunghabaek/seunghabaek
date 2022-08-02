@@ -8,8 +8,19 @@
 </a>
 
 ### Tech stack
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SQL-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+#### Language & Framework
+
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Javascript-색코드?color=black&style=plastic&logo=Javascript&logoColor=#F7DF1E"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TypeScript-색코드?color=black&style=plastic&logo=TypeScript&logoColor=#3178C6"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-색코드?color=black&style=plastic&logo=MySql&logoColor=#4479A1"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-색코드?color=black&style=plastic&logo=Python&logoColor=#3776AB"/></a>
+<br>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-색코드?color=black&style=plastic&logo=React&logoColor=#61DAFB"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Next.js-색코드?color=black&style=plastic&logo=Next.js&logoColor=#000000"/></a>
+
+#### Tool
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apache Airflow-색코드?color=gray&style=plastic&logo=Apache Airflow&logoColor=#017CEE"/></a>
+
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghabaek&show_icons=true&theme=highcontrast&hide_border=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
