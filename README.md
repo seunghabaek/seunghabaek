@@ -7,8 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghabaek&layout=compact&theme=highcontrast&hide_border=true&show_icons=true" />
 </a>
 
-### Tech stack
-#### Language & Framework
+### 📚 Tech stack
+Language & Framework
 
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Javascript-색코드?color=darkgrey&style=plastic&logo=Javascript&logoColor=#F7DF1E"/></a>
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TypeScript-색코드?color=lightblue&style=plastic&logo=TypeScript&logoColor=#3178C6"/></a>
@@ -20,12 +20,25 @@
 <br>
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apache Airflow-색코드?color=gray&style=plastic&logo=Apache Airflow&logoColor=#017CEE"/></a>
 
+<br>
 
-🔭 I’m currently working on ...
-@banksalad
+### 🔭 Working & Studying
 
-🌱 I’m currently learning ...
-1. web 개발 (react, TypeScript)
+I’m currently working on ...
+- Data Analyst @banksalad
+
+I’m currently learning ...
+- web 개발 (react, TypeScript)
+- 실험 플랫폼
+
+<br>
+
+### 📊 Work Experience
+
+- EDA를 통한 데이터 분석
+- Data Mart 설계 & 개발
+- Data Pipeline 설계 & 개발 (w.Airflow)
+- User Tagging
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghabaek&show_icons=true&theme=highcontrast&hide_border=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
