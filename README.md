@@ -21,9 +21,11 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apache Airflow-색코드?color=gray&style=plastic&logo=Apache Airflow&logoColor=#017CEE"/></a>
 
 
+🔭 I’m currently working on ...
+@banksalad
 
-
-
+🌱 I’m currently learning ...
+1. web 개발 (react, TypeScript)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghabaek&show_icons=true&theme=highcontrast&hide_border=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
